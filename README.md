@@ -1,8 +1,10 @@
 # react-form-validation
 Validating forms in react
 
-![default-state](react-form-validation/default-state.png)
+Default State:
+![default-state](https://github.com/jovenne/react-form-validation/blob/master/default-state.png)
 
-![error-shown](react-form-validation/error-shown.png)
+Error Shown:
+![error-shown](https://github.com/jovenne/react-form-validation/blob/master/error-shown.png)
  
       
